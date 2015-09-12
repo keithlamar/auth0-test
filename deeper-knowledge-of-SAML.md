@@ -12,9 +12,9 @@ Just a bit of what I've learned while working through this Auth0 test.
 * Tested logging in using various social accounts.
 * Troubleshooted issues with information in Auth0 dashboard logs
 * Python test application removing last character of .env file.
-..* This resulted in a mismatch of callback URLs -- Auth0 looking for http://auth0-test.lamar.io:3000/callback -- Python App providing http://auth0-test.lamar.io:3000/callbac 
-..* Couldn’t find root cause for removal of last character, this may be something standard that I’m just not aware of. 
-..* Quick and dirty fix by adding a single “space” at the end of .env file. 
+  * This resulted in a mismatch of callback URLs -- Auth0 looking for http://auth0-test.lamar.io:3000/callback -- Python App providing http://auth0-test.lamar.io:3000/callbac 
+  * Couldn’t find root cause for removal of last character, this may be something standard that I’m just not aware of. 
+  * Quick and dirty fix by adding a single “space” at the end of .env file. 
 
 ### From an Enterprise seeking SSO for 3rd-party apps perspective
 * Connected deployed Gluu Server SAML IDP(Shibboleth 2) to Auth0.
