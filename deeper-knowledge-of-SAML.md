@@ -1,5 +1,5 @@
 # What I've Learned
-Just a bit of what I've learned while working thought this Auth0 test.
+Just a bit of what I've learned while working through this Auth0 test.
 
 ## Deeper knowledge of SAML
 * Deployed Gluu Server on Digitalocean droplet and configured SAML IDP.
