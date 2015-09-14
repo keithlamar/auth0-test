@@ -2,7 +2,7 @@ Hi Charlie!
 
 Thanks for taking the time to describe your current situation! It’s great your company has decided to convert its core business functions to SaaS applications, you’re going to love the flexibility and ease of system management it provides. 
 
-First off, you came to the right place -- Auth0 is fully capable of providing the SSO functionality you’re looking for! SumoLogic and BambooHR can both be setup as applications in your Auth0 dashboard, there’s some great documentation on how applications work in Auth0 here: https://auth0.com/docs/applications
+First off, you came to the right place -- Auth0 is fully capable of providing the SSO functionality you’re looking for! SumoLogic and ~~BambooHR~~ can both be setup as applications in your Auth0 dashboard, there’s some great documentation on how applications work in Auth0 here: https://auth0.com/docs/applications
 
 >Secondly, your custom internal identifier “uid” can easily be mapped in the SAML2WebApp Addon, more details about that here: >https://auth0.com/docs/saml-configuration#customizing-saml-assertions-auth0-as-idp-
 
